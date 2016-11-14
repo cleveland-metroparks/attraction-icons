@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="10.922549mm"
-   height="3.4865732mm"
-   viewBox="0 0 38.701944 12.354"
+   width="21.648701mm"
+   height="6.9731498mm"
+   viewBox="0 0 76.70799 24.708012"
    id="svg3349"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-1.1388082"
-     inkscape:cy="9.900055"
+     inkscape:zoom="10"
+     inkscape:cx="35.63062"
+     inkscape:cy="13.204962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,8 +35,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="779"
-     inkscape:window-height="685"
+     inkscape:window-width="1602"
+     inkscape:window-height="867"
      inkscape:window-x="72"
      inkscape:window-y="49"
      inkscape:window-maximized="0" />
@@ -56,12 +56,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-129.33233,-448.41163)">
+     transform="translate(-114.75645,-436.15755)">
     <g
-       id="g3400">
+       id="g4178">
       <g
          id="g62435"
-         transform="translate(-214.47622,-78.845245)">
+         transform="matrix(2.0000405,0,0,2.0000406,-573.57205,-618.37785)">
         <path
            inkscape:connector-curvature="0"
            id="path6586"
@@ -123,7 +123,7 @@
       </g>
       <g
          id="g21211"
-         transform="matrix(1.25,0,0,-1.25,97.011241,1439.4691)">
+         transform="matrix(2.4997977,0,0,-2.5000507,49.773554,2418.3125)">
         <path
            inkscape:connector-curvature="0"
            id="path6574"
@@ -142,7 +142,7 @@
       </g>
       <g
          id="g3370"
-         transform="translate(-244.29867,-82.39537)">
+         transform="matrix(1.9996763,0,0,2.0000001,-632.38461,-625.45649)">
         <path
            id="path6578"
            inkscape:connector-curvature="0"

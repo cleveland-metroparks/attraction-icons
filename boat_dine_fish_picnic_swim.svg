@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="10.950746mm"
-   height="7.1654806mm"
-   viewBox="0 0 38.801854 25.389499"
+   width="21.901573mm"
+   height="14.33068mm"
+   viewBox="0 0 77.603999 50.778001"
    id="svg3349"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="boat_dining_fish_picnic_swim.svg">
+   sodipodi:docname="boat_dine_fish_picnic_swim.svg">
   <defs
      id="defs3351" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="32.801728"
-     inkscape:cy="16.725736"
+     inkscape:zoom="10"
+     inkscape:cx="31.28479"
+     inkscape:cy="22.605786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,8 +35,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1154"
-     inkscape:window-height="639"
+     inkscape:window-width="1658"
+     inkscape:window-height="904"
      inkscape:window-x="66"
      inkscape:window-y="79"
      inkscape:window-maximized="0" />
@@ -56,15 +56,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-127.94477,-443.22923)">
+     transform="translate(-127.94477,-417.84072)">
     <g
-       id="g3499">
+       id="g3498">
       <g
-         transform="translate(-0.20142379,0)"
-         id="g3456">
+         transform="translate(3.0013534,0)"
+         id="g3455">
         <g
            id="g3419"
-           transform="translate(-32.857143,13.035714)">
+           transform="matrix(1.9996357,0,0,2.0000402,-196.77732,-442.56559)">
           <g
              id="g3549"
              transform="matrix(1.2500001,0,0,-1.2500002,122.80955,1672.5657)">
@@ -92,7 +92,7 @@
         </g>
         <g
            id="g3412"
-           transform="translate(-32.857143,13.035714)">
+           transform="matrix(1.9996358,0,0,2.0000405,-197.21937,-442.56574)">
           <path
              d="m 182.31473,443.47851 c -0.6775,0 -1.22625,0.55125 -1.22625,1.2275 l 0,9.4025 c 0,0.67375 0.54875,1.2225 1.22625,1.2225 l 9.40125,0 c 0.6775,0 1.2275,-0.54875 1.2275,-1.2225 l 0,-9.4025 c 0,-0.67625 -0.55,-1.2275 -1.2275,-1.2275 l -9.40125,0 z"
              style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -121,9 +121,10 @@
         </g>
       </g>
       <g
-         id="g3470">
+         id="g3469">
         <g
-           id="g3451">
+           id="g3451"
+           transform="matrix(1.9998381,0,0,2.0000421,-101.47711,-468.63735)">
           <path
              d="m 129.42052,443.47847 c -0.675,0 -1.225,0.55125 -1.225,1.2275 l 0,9.4025 c 0,0.67375 0.55,1.2225 1.225,1.2225 l 9.4025,0 c 0.67625,0 1.22625,-0.54875 1.22625,-1.2225 l 0,-9.4025 c 0,-0.67625 -0.55,-1.2275 -1.22625,-1.2275 l -9.4025,0 z"
              style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -141,7 +142,8 @@
              inkscape:connector-curvature="0" />
         </g>
         <g
-           id="g3426">
+           id="g3426"
+           transform="matrix(1.9998381,0,0,2.0000405,-128.36653,-468.63663)">
           <g
              transform="matrix(1.25,0,0,-1.25,109.58675,1847.1871)"
              id="g3409">
@@ -202,7 +204,8 @@
           </g>
         </g>
         <g
-           id="g3441">
+           id="g3441"
+           transform="matrix(2.0000077,0,0,2.0000403,-153.9468,-468.63665)">
           <g
              transform="matrix(1.25,0,0,-1.2500001,142.64445,443.47978)"
              id="g7298">
